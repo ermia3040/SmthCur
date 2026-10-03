@@ -1,4 +1,4 @@
-# Smooth Cursor
+# Simple Smooth Cursor
 
 ![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)
 ![Platform: Windows](https://img.shields.io/badge/Platform-Windows-0078D6.svg)
