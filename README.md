@@ -37,7 +37,7 @@ Smooth Cursor replaces the default Windows pointer with a custom‑drawn cursor 
 
 ## 📦 Requirements
 
-- Windows 10 or 11
+- Windows 10 or 11 (**Absolutely not tested on lower versions of windows**)
 - [AutoHotkey v2.0](https://www.autohotkey.com/) (only if you run the script directly — the compiled `.exe` works without it)
 - Administrator privileges (needed to hide system cursors; the script will ask for it)
 
